@@ -35,6 +35,7 @@ const setActionArray = (lines) => {
 
     lines.forEach(line => {
         const splitArray = line.trim().split(" ");
+        
         if(splitArray.length > 0){
         if(splitArray[0] === 'VACANCY')
         {
