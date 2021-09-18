@@ -1,0 +1,18 @@
+{
+  "name": "makespace",
+  "version": "1.0.0",
+  "description": "This is a sample project for geektrust problem",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "mocha"
+  },
+  "author": "Paras Mani",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
